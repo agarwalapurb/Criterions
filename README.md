@@ -1,20 +1,20 @@
 # Criterions <br />
-Using `|x -  x̂|³` as Loss
+Using `|x -  x̂|³` as Loss <br />
 ![alt text](https://github.com/agarwalapurb/Criterions/blob/main/1_1.png)
 
-Using `|x -  x̂|` as Loss
+Using `|x -  x̂|` as Loss <br />
 ![alt text](https://github.com/agarwalapurb/Criterions/blob/main/1_2.png)
 
-Comparison - In the diagram below, `blue` dot shows actual parameters, `red` dot shows parameters obtained using `|x -  x̂|³` loss, and `green` dot shows parameters obtained using `|x -  x̂|` loss
+Comparison - In the diagram below, `blue` dot shows actual parameters, `red` dot shows parameters obtained using `|x -  x̂|³` loss, and `green` dot shows parameters obtained using `|x -  x̂|` loss <br />
 ![alt text](https://github.com/agarwalapurb/Criterions/blob/main/1_3.png)
 
-Using `|x -  x̂|⁴` as Loss
+Using `|x -  x̂|⁴` as Loss <br />
 ![alt text](https://github.com/agarwalapurb/Criterions/blob/main/2_1.png)
 
-Using `|x -  x̂|⁷` as Loss
+Using `|x -  x̂|⁷` as Loss <br />
 ![alt text](https://github.com/agarwalapurb/Criterions/blob/main/2_2.png)
 
-Comparison - In the diagram below, `blue` dot shows actual parameters, `red` dot shows parameters obtained using `|x -  x̂|⁴` loss, and `green` dot shows parameters obtained using `|x -  x̂|⁷` loss
+Comparison - In the diagram below, `blue` dot shows actual parameters, `red` dot shows parameters obtained using `|x -  x̂|⁴` loss, and `green` dot shows parameters obtained using `|x -  x̂|⁷` loss <br />
 ![alt text](https://github.com/agarwalapurb/Criterions/blob/main/2_3.png)
 
 
